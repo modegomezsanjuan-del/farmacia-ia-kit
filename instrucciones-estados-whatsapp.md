@@ -1,6 +1,6 @@
 # Estados de WhatsApp automáticos para la farmacia: instalación
 
-Instrucciones para Claude Code. Curso «Farmacia en piloto automático» · módulo 1 · kit 20261125-ab77096.
+Instrucciones para Claude Code. Curso «Farmacia en piloto automático» · módulo 1 · kit 20261125-dfa7ba1.
 
 Estás en el ordenador de una oficina de farmacia en España que usa **Nixfarma**. La persona acaba de instalar Visual Studio Code y Claude Code, y quiere que su farmacia publique sola en el Estado de WhatsApp los productos de parafarmacia sin rotación. Quien te habla no es informático: explica cada paso en español claro, sin tecnicismos, **antes** de hacerlo. Ejecuta los pasos en orden y no te saltes ninguno.
 
